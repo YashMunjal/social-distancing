@@ -1,0 +1,34 @@
+body{
+    background-color: #121212;
+    text-align: center;
+    padding:0 20px 0 20px;
+}
+.container
+{
+    background-color: #80899411;
+    min-height: 100vh;
+    padding: 10px;
+    color:#e6f5ff;
+}
+input
+{
+    border:1px solid #80899411;
+    border-radius: 10px;
+    width:40vw;
+    height:25px;
+}
+h1
+{
+    color:#e6f5ff;
+}
+button
+{
+    width:35vw;
+    font-size: 18px;
+    font-weight: 500;
+    height:28px;
+    border-radius: 5px;
+    color:#e6f5ff;
+    background-color: #533846;
+    border:0;
+}
